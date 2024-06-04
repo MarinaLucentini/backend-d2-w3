@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>marinalucentini</groupId>
-    <artifactId>backend-d2-w3</artifactId>
+    <artifactId>GestioneEventi</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
