@@ -37,7 +37,9 @@ public class Application {
             System.err.println(ex.getMessage());
         }
         System.out.println("Funziona!");
-
+        em.close();
+        emf.close();
     }
+
 
 }
